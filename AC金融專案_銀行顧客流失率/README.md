@@ -5,7 +5,7 @@ ALPHA Camp 金融專案_銀行顧客流失率預測
 **預測**什麼樣的銀行客戶**流失機率比較高**
 
 # 結果
-* [Report_PDF]()
+* [Report_PDF](https://github.com/DrDAN6770/MySQL_Python/blob/main/AC%E9%87%91%E8%9E%8D%E5%B0%88%E6%A1%88_%E9%8A%80%E8%A1%8C%E9%A1%A7%E5%AE%A2%E6%B5%81%E5%A4%B1%E7%8E%87/%E9%87%91%E8%9E%8D%E5%B0%88%E6%A1%88-%E9%8A%80%E8%A1%8C%E5%AE%A2%E6%88%B6%E6%B5%81%E5%A4%B1%E7%8E%87%E5%88%86%E6%9E%90.pdf)
 * **資料集統計描述**
 
 ![Alt text](picture/image.png)
