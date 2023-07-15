@@ -11,9 +11,11 @@ ALPHA Camp 金融專案_銀行顧客流失率預測
 ![Alt text](picture/image.png)
 
 * **確認分析範圍**
+
 ![Alt text](picture/image-1.png)
 
 * **逐步分析**
+
 ![Alt text](picture/image-2.png)
 
 ![Alt text](picture/image-3.png)
